@@ -1,0 +1,33 @@
+payload:
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,dmmapis.com
+  - DOMAIN-SUFFIX,dmmapis.co.jp
+  - DOMAIN-SUFFIX,dmmgames.com
+  - DOMAIN-SUFFIX,pinkocean.jp
+  - DOMAIN-SUFFIX,touken-ranbu.jp
+  - DOMAIN-SUFFIX,yuyuyui.jp
+  - DOMAIN-SUFFIX,shiropro-re.net
+  - DOMAIN-SUFFIX,enza.fun
+  - DOMAIN-SUFFIX,kamihimeproject.net
+  - DOMAIN-SUFFIX,app.priconne-redive.jp
+  - DOMAIN-SUFFIX,happyelements.co.jp
+  - DOMAIN-SUFFIX,stars-assets.hekk.org
+  - DOMAIN-SUFFIX,game-unitia.net
+  - DOMAIN-SUFFIX,kanpani.jp
+  # > 童话边境
+  - DOMAIN-KEYWORD,otogi
+  #DOMAIN-SUFFIX,otogi-sp.trafficmanager.net
+  #DOMAIN-SUFFIX,otogimigwestsp.blob.core.windows.net
+  #DOMAIN-SUFFIX,otogi-traffic-dmm-tw.trafficmanager.net
+  #DOMAIN-SUFFIX,otogi-cdn-dmm-tw.azureedge.net
+  # > 神姬3（妖怪）
+  - DOMAIN-SUFFIX,game.ayarabu.com
+  # > 艹乐器
+  - DOMAIN-SUFFIX,symphony-ec.jp
+  # > アクション対魔忍
+  - DOMAIN-SUFFIX,actiontaimanin.com
+  - DOMAIN-KEYWORD,livetmi
+  # > この素晴らしい世界に祝福を！ファンタスティックデイズ（このファン）
+  - DOMAIN-SUFFIX,konosubafd.jp
