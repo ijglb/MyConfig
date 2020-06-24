@@ -16,18 +16,20 @@ payload:
   - DOMAIN-SUFFIX,stars-assets.hekk.org
   - DOMAIN-SUFFIX,game-unitia.net
   - DOMAIN-SUFFIX,kanpani.jp
-  # > 童话边境
+  # 童话边境
   - DOMAIN-KEYWORD,otogi
-  #DOMAIN-SUFFIX,otogi-sp.trafficmanager.net
-  #DOMAIN-SUFFIX,otogimigwestsp.blob.core.windows.net
-  #DOMAIN-SUFFIX,otogi-traffic-dmm-tw.trafficmanager.net
-  #DOMAIN-SUFFIX,otogi-cdn-dmm-tw.azureedge.net
-  # > 神姬3（妖怪）
+  #- DOMAIN-SUFFIX,otogi-sp.trafficmanager.net
+  #- DOMAIN-SUFFIX,otogimigwestsp.blob.core.windows.net
+  #- DOMAIN-SUFFIX,otogi-traffic-dmm-tw.trafficmanager.net
+  #- DOMAIN-SUFFIX,otogi-cdn-dmm-tw.azureedge.net
+  # 神姬3（妖怪）
   - DOMAIN-SUFFIX,game.ayarabu.com
-  # > 艹乐器
+  # 艹乐器
   - DOMAIN-SUFFIX,symphony-ec.jp
-  # > アクション対魔忍
+  # アクション対魔忍
   - DOMAIN-SUFFIX,actiontaimanin.com
   - DOMAIN-KEYWORD,livetmi
-  # > この素晴らしい世界に祝福を！ファンタスティックデイズ（このファン）
+  # この素晴らしい世界に祝福を！ファンタスティックデイズ（このファン）
   - DOMAIN-SUFFIX,konosubafd.jp
+  # マジカミ Magicami
+  - DOMAIN-SUFFIX,magicami.jp
