@@ -32,3 +32,5 @@ payload:
   - DOMAIN-SUFFIX,konosubafd.jp
   # マジカミ Magicami
   - DOMAIN-SUFFIX,magicami.jp
+  # ぼくらの放課後戦争!-AFTER SCHOOL WARS-
+  - IP-CIDR,150.95.252.130/32
