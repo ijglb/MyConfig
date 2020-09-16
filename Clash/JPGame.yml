@@ -34,3 +34,5 @@ payload:
   - DOMAIN-SUFFIX,magicami.jp
   # ぼくらの放課後戦争!-AFTER SCHOOL WARS-
   - IP-CIDR,150.95.252.130/32
+  # ミストトレインガールズ〜霧の世界の車窓から〜
+  - DOMAIN-SUFFIX,mist-train-girls.azurefd.net
