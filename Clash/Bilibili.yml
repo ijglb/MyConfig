@@ -14,7 +14,8 @@ payload:
   - IP-CIDR,128.1.62.201/32
   # APP
   - DOMAIN,api.bilibili.com
-  - DOMAIN-SUFFIX,biliapi.com
-  - DOMAIN-SUFFIX,biliapi.net
+  # - DOMAIN-SUFFIX,biliapi.com
+  # - DOMAIN-SUFFIX,biliapi.net
+  - PROCESS-NAME,com.bilibili.app.in
   # 网页
   - DOMAIN,www.bilibili.com
