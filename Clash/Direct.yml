@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,hostloc.com
-  - DOMAIN-SUFFIX,cloud.unity3d.com
+  #- DOMAIN-SUFFIX,hostloc.com
+  #- DOMAIN-SUFFIX,cloud.unity3d.com
   - DOMAIN-SUFFIX,lianaiyx.com
