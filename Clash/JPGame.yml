@@ -36,3 +36,5 @@ payload:
   - IP-CIDR,150.95.252.130/32
   # ミストトレインガールズ〜霧の世界の車窓から〜
   - DOMAIN-SUFFIX,mist-train-girls.azurefd.net
+  # lol
+  - PROCESS-NAME,com.riotgames.league.wildrift
