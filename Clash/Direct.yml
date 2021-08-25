@@ -2,6 +2,6 @@ payload:
   #- DOMAIN-SUFFIX,hostloc.com
   #- DOMAIN-SUFFIX,cloud.unity3d.com
   - DOMAIN-SUFFIX,lianaiyx.com
-  - DOMAIN-SUFFIX,ijglb.com
-  - DOMAIN-SUFFIX,steamgalgame.com
-  - DOMAIN-SUFFIX,674665939.xyz
+  #- DOMAIN-SUFFIX,ijglb.com
+  #- DOMAIN-SUFFIX,steamgalgame.com
+  #- DOMAIN-SUFFIX,674665939.xyz
