@@ -17,5 +17,6 @@ payload:
   # - DOMAIN-SUFFIX,biliapi.com
   # - DOMAIN-SUFFIX,biliapi.net
   - PROCESS-NAME,com.bilibili.app.in
+  - PROCESS-NAME,tv.danmaku.bili
   # 网页
   - DOMAIN,www.bilibili.com
