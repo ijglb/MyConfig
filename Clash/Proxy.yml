@@ -3,3 +3,8 @@ payload:
   - DOMAIN-KEYWORD,maj-soul
   - DOMAIN-KEYWORD,majsoul
   # - DOMAIN,store.steampowered.com
+  # OneNote
+  - DOMAIN,docs.live.net
+  - DOMAIN,d.docs.live.net
+  - DOMAIN,ocws.officeapps.live.com
+  - DOMAIN,mobile.pipe.aria.microsoft.com
