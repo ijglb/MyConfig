@@ -15,3 +15,4 @@ payload:
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN-KEYWORD,steamcloud-
+  - DOMAIN-SUFFIX,steamserver.net
