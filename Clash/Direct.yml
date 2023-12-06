@@ -5,4 +5,4 @@ payload:
   #- DOMAIN-SUFFIX,ijglb.com
   #- DOMAIN-SUFFIX,steamgalgame.com
   #- DOMAIN-SUFFIX,674665939.xyz
-  # DOMAIN-SUFFIX,dcg.microsoft.com
+  - DOMAIN-SUFFIX,dcg.microsoft.com
