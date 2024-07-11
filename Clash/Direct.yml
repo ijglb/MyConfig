@@ -6,3 +6,4 @@ payload:
   #- DOMAIN-SUFFIX,steamgalgame.com
   #- DOMAIN-SUFFIX,674665939.xyz
   - DOMAIN-SUFFIX,dcg.microsoft.com
+  - DOMAIN-SUFFIX,steamcontent.com
