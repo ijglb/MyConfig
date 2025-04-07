@@ -42,3 +42,5 @@ payload:
   # x.ai
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
+  # trae.ai
+  - DOMAIN-SUFFIX,trae.ai
