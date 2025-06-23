@@ -44,3 +44,5 @@ payload:
   - DOMAIN-SUFFIX,x.ai
   # trae.ai
   - DOMAIN-SUFFIX,trae.ai
+  # AugmentCode
+  - DOMAIN-SUFFIX,augmentcode.com
