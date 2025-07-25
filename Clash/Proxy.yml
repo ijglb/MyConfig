@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,steamgalgame.com
   # - DOMAIN,store.steampowered.com
   - DOMAIN-SUFFIX,keylol.com
+  - DOMAIN-KEYWORD,wmsxwd
