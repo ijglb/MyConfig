@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,dcg.microsoft.com
   - DOMAIN-SUFFIX,idleinfinity.cn
   - DOMAIN-SUFFIX,new.crond.dev
+  - DOMAIN-SUFFIX,bing.com
   #Steam
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
