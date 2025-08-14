@@ -1,0 +1,6 @@
+payload:
+  - PROCESS-NAME,OneDrive
+  - PROCESS-NAME,OneDriveSetup
+  - PROCESS-NAME,OneDrive File Provider
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN-SUFFIX,sharepoint.com
