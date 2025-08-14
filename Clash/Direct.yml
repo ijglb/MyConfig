@@ -36,6 +36,3 @@ payload:
   - IP-CIDR,208.78.164.0/22
   - IP-CIDR,205.185.194.0/24
   - DOMAIN-SUFFIX,steamcontent.com
-  # OneDrive
-  - DOMAIN-SUFFIX,sharepoint.com
-  - PROCESS-NAME,OneDrive.exe
