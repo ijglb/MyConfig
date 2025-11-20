@@ -35,5 +35,3 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
-  - PROCESS-PATH-REGEX,(?i).*Antigravity\\.*
-  - DOMAIN-SUFFIX,antigravity.google
