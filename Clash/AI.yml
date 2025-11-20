@@ -30,3 +30,6 @@ payload:
   - DOMAIN-SUFFIX,trae.ai
   # AugmentCode
   - DOMAIN-SUFFIX,augmentcode.com
+  # Antigravity
+  - PROCESS-PATH-REGEX,(?i).*Antigravity\\.*
+  - DOMAIN-SUFFIX,antigravity.google
