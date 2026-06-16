@@ -16,3 +16,4 @@ payload:
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN-KEYWORD,steamcloud-
   - DOMAIN-SUFFIX,steamserver.net
+  - PROCESS-NAME,steamwebhelper
