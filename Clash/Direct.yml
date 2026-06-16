@@ -11,6 +11,13 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,linewell.com
   #Steam
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN,*.steamcontent.com
+  - DOMAIN,fastly.cdn.steampipe.steamcontent.com
+  - DOMAIN,cdn.fastly.steamstatic.com
+  - DOMAIN,*.fastly.steamstatic.com
+  - DOMAIN-SUFFIX,fastly.steamstatic.com
+  - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
   - IP-CIDR,45.121.184.0/24
@@ -36,4 +43,3 @@ payload:
   - IP-CIDR,208.64.200.0/22
   - IP-CIDR,208.78.164.0/22
   - IP-CIDR,205.185.194.0/24
-  - DOMAIN-SUFFIX,steamcontent.com
