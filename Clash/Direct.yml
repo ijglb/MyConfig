@@ -14,9 +14,6 @@ payload:
   - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN,*.steamcontent.com
   - DOMAIN,fastly.cdn.steampipe.steamcontent.com
-  - DOMAIN,cdn.fastly.steamstatic.com
-  - DOMAIN,*.fastly.steamstatic.com
-  - DOMAIN-SUFFIX,fastly.steamstatic.com
   - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
