@@ -33,3 +33,4 @@ payload:
   # Antigravity
   - PROCESS-PATH-REGEX,(?i).*Antigravity\\.*
   - DOMAIN-SUFFIX,antigravity.google
+  - PROCESS-NAME,agy
